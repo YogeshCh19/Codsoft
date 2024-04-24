@@ -1,2 +1,2 @@
-# Codsoft
-Codes
+# CODSOFT
+Python Codes
